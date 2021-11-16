@@ -2,13 +2,6 @@
     font-size: 24px;
     color: rgb(255, 255, 255);
 }
-
-/* body {
-    background-image: linear-gradient(#6774db, pink);
-    background-size: cover;
-    background-attachment: fixed;
-} */
-
 input {
     color: black;
 }
@@ -32,10 +25,8 @@ span {
 }
 
 #app {
-
     width: 70%;
     margin: 0 auto;
-    
 }
 
 h4 {
@@ -47,7 +38,6 @@ h4 {
  }
 
  .section {
-    
     position: relative;
     width: 100%;
     height: 100%;
@@ -63,14 +53,6 @@ h4 {
     position: fixed;
     top: 0;
     left: 0;
-    
-  }
-  
-/* .video-container {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
   }
 
  
