@@ -8,7 +8,7 @@ input {
 #happys {
     font-size: 48px;
     font-family: cursive;
-    color: #f06060;
+    color: #62b8ff;
     position: absolute;
     top: 100px;
     left: 275px;
@@ -16,7 +16,7 @@ input {
 }
 span {
     font-size: 48px; 
-    color: #f06060;
+    color: #62b8ff;
 }
 #image {
     width: 100%;
